@@ -1,0 +1,21 @@
+conda install python=3.10
+
+pip install tensorflow==2.10
+
+conda install jupyter notebook
+
+pip install pillow==9.5.0
+
+pip install scipy==1.9 pyparsing==2.3.1 python-dateutil==2.7
+
+pip install pandas==0.25.3
+
+pip install numpy==1.17.4
+
+pip install matplotlib==3.8.4
+
+pip install pydot
+
+pip install seaborn
+
+pip install scikit-learn==1.4.2
